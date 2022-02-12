@@ -28,9 +28,3 @@ computer = '''
 | (_) | 
  \___/  
 '''
-
-for a in [1, 2]:
-    if a == 3:
-        print('for')
-else:
-    print('no')
